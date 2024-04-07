@@ -21,7 +21,7 @@ function divideNumbers(x, y){
     //     return x / y;
     // }
 }
-var arrayOfNumbers = [4, 5, 6];
+var arrayOfNumbers = [40, 59, 66];
 //console.log(`Given array of numbers: ${arrayOfNumbers}`);
 console.table(arrayOfNumbers);
 const sum = arrayOfNumbers.reduce(findSum, 0);
